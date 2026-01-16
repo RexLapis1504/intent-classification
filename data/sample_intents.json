@@ -1,0 +1,124 @@
+{
+  "intents": [
+    {
+      "name": "greeting",
+      "examples": [
+        "hello",
+        "hi there",
+        "hey",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "howdy",
+        "hi",
+        "what's up",
+        "greetings"
+      ]
+    },
+    {
+      "name": "goodbye",
+      "examples": [
+        "bye",
+        "goodbye",
+        "see you later",
+        "take care",
+        "see you",
+        "have a good day",
+        "catch you later",
+        "farewell",
+        "until next time",
+        "bye bye"
+      ]
+    },
+    {
+      "name": "help",
+      "examples": [
+        "help me",
+        "I need help",
+        "can you help",
+        "assist me",
+        "I need assistance",
+        "help please",
+        "I'm stuck",
+        "can you assist",
+        "support needed",
+        "I need support"
+      ]
+    },
+    {
+      "name": "thanks",
+      "examples": [
+        "thank you",
+        "thanks",
+        "thanks a lot",
+        "thank you so much",
+        "much appreciated",
+        "I appreciate it",
+        "thanks for your help",
+        "cheers",
+        "many thanks",
+        "grateful"
+      ]
+    },
+    {
+      "name": "weather",
+      "examples": [
+        "what's the weather like",
+        "how's the weather",
+        "weather forecast",
+        "is it going to rain",
+        "will it be sunny",
+        "what's the temperature",
+        "is it cold outside",
+        "weather today",
+        "check the weather",
+        "forecast for tomorrow"
+      ]
+    },
+    {
+      "name": "time",
+      "examples": [
+        "what time is it",
+        "tell me the time",
+        "current time",
+        "what's the time",
+        "time please",
+        "do you have the time",
+        "what hour is it",
+        "time now",
+        "clock",
+        "what's the current time"
+      ]
+    },
+    {
+      "name": "search",
+      "examples": [
+        "search for",
+        "find information about",
+        "look up",
+        "can you search",
+        "I want to find",
+        "search the web for",
+        "google",
+        "look for",
+        "find me",
+        "search online"
+      ]
+    },
+    {
+      "name": "reminder",
+      "examples": [
+        "set a reminder",
+        "remind me",
+        "create a reminder",
+        "don't let me forget",
+        "reminder for",
+        "set an alarm",
+        "alert me",
+        "notify me",
+        "remember to",
+        "add a reminder"
+      ]
+    }
+  ]
+}
